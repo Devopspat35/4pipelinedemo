@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://13.58.68.240:8081/repository/twtechReleases/</url>
+	      <url>http://13.59.45.244:8081/repository/webapplicationpatReleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.58.68.240:8081/repository/twtechSnapshots/</url>
+	      <url>http://13.59.45.244:8081/repository/webapplicationpatSnapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
