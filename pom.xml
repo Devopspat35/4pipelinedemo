@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.145.207.120:8081/repository/TwTonebuildreleases/</url>
+	      <url>hhttp://3.138.199.40:8081/repository/nodeJSpipelinereleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
