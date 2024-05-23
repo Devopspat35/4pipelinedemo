@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.145.207.120:8081/repository/TwTonebuildsnapshot/</url>
+	      <url>http://3.138.199.40:8081/repository/nodeJSpipelinesnapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
