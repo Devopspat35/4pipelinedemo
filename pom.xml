@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ThinkwTech</finalName>
+		<finalName>TwTnodeJS-webapp</finalName>
 		
 		<plugins>
 			<plugin>
