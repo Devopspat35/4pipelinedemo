@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>TwithTechwebapp</finalName>
+		<finalName>TeslawebAPP</finalName>
 		
 		<plugins>
 			<plugin>
